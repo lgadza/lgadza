@@ -88,6 +88,9 @@
 
 </a>
 </div>
+<div align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?username=lgadza&theme=tokyonight" alt="mystreak"/>
+	</div>
 
 <br>
 <br>
