@@ -85,14 +85,11 @@
 <a href="https://github.com/lgadza/">
   <img src="https://github-readme-stats.vercel.app/api?username=lgadza&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lgadza&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="lgadza"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?username=lgadza&theme=tokyonight" alt="mystreak"/>
 
 </a>
 </div>
-<div align="center">
-	<a href="https://github.com/lgadza/">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?username=lgadza&theme=tokyonight" alt="mystreak"/>
-		</a>
-	</div>
+
 
 <br>
 <br>
