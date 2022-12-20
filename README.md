@@ -89,7 +89,7 @@
 </a>
 </div>
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?username=lgadza&theme=tokyonight" alt="mystreak"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=LouisGadza&theme=tokyonight" alt="mystreak"/>
 	</div>
 
 <br>
@@ -101,7 +101,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/Louis/Gadza/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
