@@ -114,7 +114,7 @@
 </a>
 </li>
 	<li>
-		<a href="https://instagram.com/lgadza" target="blank"><img align="center" src="https://img.shields.io/badge/instagram:  Louis Gadza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" /></a>
+		<a href="https://instagram.com/louis_gadza" target="blank"><img align="center" src="https://img.shields.io/badge/instagram:  Louis Gadza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=louis style="margin-bottom: 5px;" /></a>
 	</li>
 
 <br>
