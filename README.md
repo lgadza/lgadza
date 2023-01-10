@@ -140,7 +140,7 @@
 
 <div align='center'>
 
-						See More ...✨
+						
 
 </div>
 <br>
@@ -153,8 +153,6 @@
 <br>
 
 Credit: [Louis Gadza](https://github.com/lgadza)
-
-Last Edited on: 20/12/2022
 
 
 
